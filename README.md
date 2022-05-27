@@ -12,9 +12,9 @@
 
 - [Documentación](https://pinnate-lace-fe6.notion.site/Proyecto-Regresi-n-y-Predicci-n-9d40ba17c9274b53bb260f4773544449)
 
-- [Código](https://github.com/semilun4/Data-Science/blob/main/Proyecto_DS1.ipynb)
+- [Código](https://github.com/semilun4)
 
-- [Presentación](https://www.canva.com/design/DAFA-nyVFgk/Dt-gnAA-dqHRtmXSZ3crUw/view?utm_content=DAFA-nyVFgk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1)
+- [Presentación](https://www.canva.com/design/DAFB3lArWfE/U9bbFGflWxUw89N7dyUIkA/edit?utm_content=DAFB3lArWfE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 Además, el repositorio contine las notas del curso que fueron base del proyecto.
 
